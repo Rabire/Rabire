@@ -11,19 +11,9 @@ My commitments include:
 - 🤝 Excellent communication and documentation throughout the project
 - 🚀 Time, effort, and budget savings
 
-💩 Don't settle for an average project when you can have the best.
+💩 Don't settle for an average project when you can have the best. Let's work together ! [📞](tel:+33652789907) [✉️](mailto:contact@rabire.com)
 
-Let's work together ! [📞](tel:+33652789907) [✉️](mailto:contact@rabire.com)
-
-<br />
-
----
-
-<br />
-
-## 🤩 My go-to stack
-
-<br />
+# 🤩 My go-to stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
